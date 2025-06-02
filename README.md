@@ -3,6 +3,9 @@
 ![Bell](./toolkit/set/bell.jpg)
 
 A WhatsApp bot built with love and power by OmegaTech.# Queen Bella Bot
+<a href="https://wa.me/23234675912" target="_blank">
+  <img src="https://img.shields.io/badge/Talk%20to%20Dev%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 ## Instalasi awal
 
