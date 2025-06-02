@@ -1,4 +1,8 @@
-# QUEEN-BELLA V1
+# Queen Bella Bot
+
+![Bell](./toolkit/set/bell.jpg)
+
+A WhatsApp bot built with love and power by OmegaTech.# Queen Bella Bot
 
 ## Instalasi awal
 
