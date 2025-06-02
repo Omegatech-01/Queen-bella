@@ -9,6 +9,12 @@
   <small>💥 <i>Powerful Bot by OMEGA</i></small>
 </h2>
 
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VawHbTr1CYoWf3uLwz3r" target="_blank">
+    <img src="https://img.shields.io/badge/🔥 JOIN%20WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" alt="Join WhatsApp" />
+  </a>
+</p>
+
 A WhatsApp bot built with love and power by OmegaTech.# Queen Bella Bot
 <a href="https://wa.me/23234675912" target="_blank">
   <img src="https://img.shields.io/badge/Talk%20to%20Dev%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
