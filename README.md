@@ -1,4 +1,4 @@
-# Queen Bella Bot
+# Queen Bella V1
 
 <p align="center">
   <img src="/toolkit/set/bell.jpg" width="250" style="border-radius: 20px;" />
