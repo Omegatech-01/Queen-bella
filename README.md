@@ -7,6 +7,29 @@ A WhatsApp bot built with love and power by OmegaTech.# Queen Bella Bot
   <img src="https://img.shields.io/badge/Talk%20to%20Dev%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
+<style>
+@keyframes glitch {
+  0% { text-shadow: 0 0 5px #f0f, 0 0 10px #0ff; }
+  25% { text-shadow: 1px 0 red, -1px 0 blue; }
+  50% { text-shadow: 0 0 20px lime, 0 0 30px red; }
+  75% { text-shadow: -1px 0 green, 1px 0 yellow; }
+  100% { text-shadow: 0 0 5px #f0f, 0 0 10px #0ff; }
+}
+
+.glitch-text {
+  font-size: 32px;
+  color: white;
+  text-align: center;
+  animation: glitch 0.8s infinite;
+  font-family: monospace;
+}
+</style>
+
+<div class="glitch-text">
+  👑 I am QUEEN-BELLA<br>
+  💥 Powerful Bot by OMEGA
+</div>
+
 ## Instalasi awal
 
 1. Update package
