@@ -1,0 +1,39 @@
+{
+  "name": "QUEEN-BELLA|POWERED BY OMEGATECH",
+  "version": "1.0.0",
+  "description": "POWERFUL WHATSAPP BOT , THE BEGINNING OF YOUR ULTRA WHATSAPP MODE",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "start",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omegatech-01/QUEEN-BELLA.git"
+  },
+  "keywords": [
+    "whatsapp-bot-ai"
+  ],
+  "author": "@OmegaTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omegatech-01/QUEEN-BELLA/issues"
+  },
+  "homepage": "https://github.com/Omegatech-01/QUEEN-BELLA#readme",
+  "dependencies": {
+        "@whiskeysockets/baileys": "npm:baileys@^6.7.17",
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "chokidar": "^3.6.0",
+    "escape-string-regexp": "^5.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "jimp": "^0.16.1",
+    "jsdom": "^16.5.0",
+    "moment-timezone": "^0.5.33",
+    "node-webpmux": "^3.2.0",
+    "path": "^0.12.7",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2"
+  }
+}
