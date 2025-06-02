@@ -1,6 +1,13 @@
 # Queen Bella Bot
 
-![Bell](./toolkit/set/bell.jpg)
+<p align="center">
+  <img src="Queen-bella/toolkit/set/bell.jpg" width="250" style="border-radius: 20px;" />
+</p>
+
+<h2 align="center">
+  👑 <b>"Power flows where I command."</b> 👾<br>
+  <small>💥 <i>Powerful Bot by OMEGA</i></small>
+</h2>
 
 A WhatsApp bot built with love and power by OmegaTech.# Queen Bella Bot
 <a href="https://wa.me/23234675912" target="_blank">
