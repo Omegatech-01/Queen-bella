@@ -1,7 +1,7 @@
 # Queen Bella Bot
 
 <p align="center">
-  <img src="Queen-bella/toolkit/set/bell.jpg" width="250" style="border-radius: 20px;" />
+  <img src="/toolkit/set/bell.jpg" width="250" style="border-radius: 20px;" />
 </p>
 
 <h2 align="center">
